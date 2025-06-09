@@ -1,0 +1,9 @@
+./data/*
+./log/*
+cameras.txt
+mean_camera.py
+**output**
+data/*
+log*
+data
+./data
